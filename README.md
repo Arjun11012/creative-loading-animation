@@ -1,4 +1,4 @@
-# creative-loading-animation
+# Creative-Loading-Animation
 
 Welcome to the repository in creating captivating loading animations using CSS3! In this repo we dive deep into the world of web design and learn how to craft mesmerizing loading animations that will impress your visitors and enhance their browsing experience.
 
